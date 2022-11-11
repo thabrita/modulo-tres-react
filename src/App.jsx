@@ -1,7 +1,7 @@
 import './App.css';
 // import Info from './components/Info';
 // import Texto from './components/Texto'
-import Lista from "./components/Lista";
+import Formulario from './components/Formulario';
 
 function App() {
   return (
@@ -12,7 +12,7 @@ function App() {
       <Texto>Um novo texto como children</Texto>
       <Texto>Um novo textinho como children</Texto>
       <Texto>Um novo texto realmente como children</Texto> */}
-      <Lista />
+      <Formulario />
     </div>
   )
 }
